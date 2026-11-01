@@ -148,7 +148,7 @@ Our working principles:
 
 <div align="center">
 
-| <img src="https://github.com/Bintangilham10.png" width="88" /> | <img src="https://github.com/USERNAME_2.png" width="88" /> | <img src="https://github.com/USERNAME_3.png" width="88" /> | <img src="https://github.com/USERNAME_4.png" width="88" /> | <img src="https://github.com/USERNAME_5.png" width="88" /> |
+| <img src="https://github.com/Bintangilham10.png" width="88" /> | <img src="https://github.com/Roy-Zidomi.png" width="88" /> | <img src="https://github.com/hafidz03-abd.png" width="88" /> | <img src="https://github.com/USERNAME_4.png" width="88" /> | <img src="https://github.com/USERNAME_5.png" width="88" /> |
 | :---: | :---: | :---: | :---: | :---: |
 | [**Bintangilham**](https://github.com/Bintangilham10) | [**Royzidomi**](https://github.com/Roy-Zidomi) | [**Hafidz**](https://github.com/hafidz03-abd) | [**Name**](https://github.com/USERNAME_4) | [**Name**](https://github.com/USERNAME_5) |
 | Role | Role | Role | Role | Role |
