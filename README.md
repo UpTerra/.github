@@ -1,0 +1,2 @@
+# .github
+UpTerra organization profile
